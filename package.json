@@ -1,0 +1,19 @@
+{
+  "name": "animations",
+  "version": "1.0.0",
+  "description": "Animations for the youtube channel \"Ista\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ista2000/animations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ista2000/animations/issues"
+  },
+  "homepage": "https://github.com/Ista2000/animations#readme"
+}
