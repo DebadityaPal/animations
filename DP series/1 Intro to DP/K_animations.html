@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <title>Test</title>
+    <script type="text/x-mathjax-config">
+        MathJax = {
+            loader: {load: ['input/tex-base', 'output/svg', 'ui/menu', '[tex]/mhchem']},
+            tex: {packages: {'[+]': ['mhchem']}}
+        };
+
+    </script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+</head>
+<body>
+    <div id="scene-container"></div>
+    <br>
+    <div id="container"></div>
+
+    <script src="../../Manim.three.js/node_modules/ccapture.js/build/CCapture.all.min.js"></script>
+    <script type="module" src="K_animations.js"></script>
+</body>
+</html>

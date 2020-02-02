@@ -1,0 +1,15 @@
+#scene-container {
+  width: 95vw;
+  height: 95vh;
+}
+
+canvas {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
